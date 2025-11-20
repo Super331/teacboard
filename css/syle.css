@@ -75,6 +75,7 @@ a{
  margin: 32px 0 0 16px;
 }
 h1{
+   margin: 126px 16px 0 auto;
    font-size: 40px;
 }
 p{
@@ -86,6 +87,7 @@ a{
    font-size: 20px;
    width: 251px;
    height: 66px;
+   margin: 40px 45px 0 auto;
 }
 section img{
    width: 340px;
