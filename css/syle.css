@@ -93,5 +93,6 @@ a{
 section img{
    width: 340px;
    height: 230px;
+   margin: auto 17px auto 17px;
 }
    }
